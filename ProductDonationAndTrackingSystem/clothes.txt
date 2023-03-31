@@ -1,0 +1,36 @@
+1950,Mert,Kırtaş,Ankara,Small,Man,Zero Product,Coat
+1951,Kaan,Kocabaş,İzmir,Medium,Woman,Pre_Owned,Top
+1952,Hayat,Koyuncu,Van,Large,Kids,Zero Product,Pants
+1953,Yiğit,Orhan,İstanbul,Small,Man,Zero Product,Sleeping-bag
+1954,Vahide,Ölmez,Ankara,Small,Woman,Pre_Owned,Shoes
+1955,İlayda,Özer,Van,Extra Large,Man,Zero Product,Blanket
+1956,Mustafa,Sadık,İstanbul,Medium,Kids,Zero Product,Coat
+1957,Ali,Sadıkoğlu,Elazığ,Large,Man,Zero Product,Top
+1958,Mine,Selvi,Van,Large,Woman,Pre-Owned,Pants
+1959,Caner,Solak,İstanbul,Extra Large,Man,Zero Product,Sleeping-bag
+1960,Yunus,Soylu,İzmir,Large,Woman,Zero Product,Shoes
+1961,Alihan,Ağaoğlu,Ankara,Medium,Man,Zero Product,Coat
+1962,Melda,Kocatepe,İzmir,Extra Large,Woman,Pre_Owned,Pants
+1963,Hasan,Şahin,Van,Large,Woman,Zero Product,Shoes
+1964,Kader,Oruç,İstanbul,Medium,Man,Zero Product,Top
+1965,Vahit,Bilgiç,Elazığ,Large,Woman,Pre_Owned,Blanket
+1966,Melike,Kılıç,Van,Large,Man,Zero Product,Sleeping-bag
+1967,Hikmet,Mucurlu,İstanbul,Small,Woman,Zero Product,Blanket
+1968,Yasemin,Yener,Van,Medium,Man,Zero Product,Shoes
+1969,Havva,Server,Elazığ,Large,Woman,Pre-Owned,Top
+1970,Cansu,Sağır,İstanbul,Large,Woman,Zero Product,Pants
+1971,Yusuf,Topraktepe,İzmir,Small,Kids,Zero Product,Coat
+1972,Ali,Gezgen,Ankara,Medium,Man,Zero Product,Shoes
+1973,Veli,Öğüt,İzmir,Small,Man,Pre_Owned,Sleeping-bag
+1974,Ayşe,Kat,Van,Large,Kids,Zero Product,Blanket
+1975,Mehmet,Yaşa,Elazığ,Small,Man,Zero Product,Sleeping-bag
+1976,Umut,Yardım,İstanbul,Small,Woman,Pre_Owned,Shoes
+1977,Osman,Özlü,Van,Large,Man,Zero Product,Blanket
+1978,Sinem,İlber,İstanbul,Medium,Kids,Zero Product,Shoes
+1979,Zeynep,Urhan,Van,Extra Large,Man,Zero Product,Pants
+1980,Açelya,Servet,Van,Large,Woman,Pre-Owned,Top
+1981,Emir,Aşık,İstanbul,Extra Large,Man,Zero Product,Top
+1982,Doğukan,Sezen,İzmir,Large,Woman,Zero Product,Coat
+1983,Meliha,Doğrul,Ankara,Small,Man,Zero Product,Pants
+1984,Kübra,Binici,İstanbul,Medium,Kids,Pre_Owned,Shoes
+1985,Salih,Kirazlı,Ankara,Large,Woman,Zero Product,Blanket

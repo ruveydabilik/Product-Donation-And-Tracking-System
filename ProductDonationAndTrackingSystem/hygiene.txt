@@ -1,0 +1,40 @@
+3060,Mehveş,Şencan,Ankara,Mask
+3061,Numan,Taş,İstanbul,Diaper
+3062,Güven,Uzun,Van,Toothpaste
+3063,Ebrar,Yazıcı,Elazığ,Soap
+3064,Enes,Çulhan,Ankara,Shampoo
+3065,Oğuz,Gürel,Van,Toilet Paper
+3066,Osman,Yılmaz,Ankara,Cream
+3067,Arda,Türkçü,İstanbul,Mask
+3068,Abdullah,Karaca,Van,Diaper
+3069,Asya,Karabıyık,İstanbul,Soap
+3070,Mahmut,Kayhan,Van,Shampoo
+3071,Lokman,Karlı,İstanbul,Cream
+3072,Selenay,Zorlu,Elazığ,Mask
+3073,Zehra,Sadık,Van,Soap
+3074,Sena,Şahin,Ankara,Diaper
+3075,Gündüz,Tüfekçi,İstanbul,Shampoo
+3076,Nurgül,Sevgin,Ankara,Shampoo
+3077,Ezgi,Oğul,İstanbul,Toothpaste
+3078,Onur,Öğer,Van,Diaper
+3079,Cihan,Çolak,Elazığ,Cream
+3080,Özge,Dinç,Ankara,Shampoo
+3081,İsmail,Kandemir,İzmir,Toilet Paper
+3082,Gizem,Şahin,Ankara,Cream
+3083,Yağmur,Öztürk,İstanbul,Diaper
+3084,Nisanur,Ekiz,Van,Mask
+3085,Sıla,Güler,İstanbul,Soap
+3086,Ece,Turacı,Van,Shampoo
+3087,Turhan,Baki,İstanbul,Toilet Paper
+3088,Adil,Özdemir,Elazığ,Mask
+3089,Enes,Durak,Van,Soap
+3090,Berkay,Teper,Ankara,Diaper
+3091,Eray,Bülbül,İstanbul,Mask
+3092,Şafak,Yorulmaz,İstanbul,Mask
+3093,Pelin,Özdemir,Van,Diaper
+3094,Kaan,Tekin,Van,Toothpaste
+3095,Orhan,Karaca,Ankara,Soap
+3096,Fatih,Ergün,İstanbul,Shampoo
+3097,Şevval,Dönmez,Van,Toilet Paper
+3098,Dilek,Çolak,Elazığ,Cream
+3099,Elif,Özkul,İzmir,Mask

@@ -1,0 +1,36 @@
+1825,Nihal,Sarıklı,İstanbul,29.07.2027,Sugar
+1826,Recep,Sekmen,Elazığ,04.06.2025,Tea
+1827,Melih,Kuzgun,Van,01.03.2023,Baby Food
+1828,Muhammed,İynem,Ankara,15.10.2027,Salt
+1829,Ceren,Korkmaz,İstanbul,22.02.2026,Flour
+1830,Köksal,Özdemir,İzmir,23.04.2027,Pasta
+1831,Taha,Yürekli,Elazığ,07.08.2033,Oil
+1832,Fulya,Müldür,Ankara,21.05.2022,Milk
+1833,Cengiz,Toper,İzmir,31.09.2027,Water
+1834,Süreyya,Koç,Van,10.12.2025,Baby Food
+1835,Cihan,Adıgüzel,İstanbul,23.09.2026,Salt
+1836,Zeynep,Aldağ,Van,18.11.2025,Canned Food
+1837,Bahar,Bent,İstanbul,26.08.2029,Tea
+1838,İbrahim,Çağlar,Elazığ,20.01.2026,Pasta
+1839,Elvan,Ege,İzmir,24.01.2031,Legumes
+1840,Volkan,Yılmaz,İstanbul,30.06.2024,Oil
+1841,Elif,Eroğlu,Ankara,17.07.2026,Flour
+1842,Emin,Fındık,İzmir,18.09.2025,Sugar
+1843,Hayri,Görgülü,Ankara,23.04.2026,Tea
+1844,Sevgi,Kanlı,Elazığ,30.04.2025,Sugar
+1845,Kubilay,Yıldırım,Elazığ,08.06.2023,Oil
+1846,Esra,Yıldız,İstanbul,18.02.2025,Baby Food
+1847,Lale,Gökbulut,Elazığ,01.11.2022,Canned Food
+1848,Gökay,Kurşun,Ankara,10.12.2028,Tea
+1849,Bülent,Demirbilek,Van,28.06.2024,Milk
+1850,Mustafa,Gönenç,İzmir,15.04.2026,Legumes
+1851,Beka,Kelamet,İstanbul,07.09.2028,Water
+1852,Batuhan,Koreli,İstanbul,02.04.2026,Sugar
+1853,Büşra,Adıgüzel,Van,03.12.2025,Salt
+1854,Ezgi,Tanalmış,Elazığ,12.06.2022,Milk
+1855,Atakan,Kökmen,İzmir,19.01.2027,Pasta
+1856,Nevin,Öngün,İstanbul,25.06.2025,Flour
+1857,Fatma,Kara,Elazığ,26.02.2028,Pasta
+1858,Gülizar,Bayıl,İstanbul,02.05.2027,Oil
+1859,İrem,Aktul,İzmir,05.05.2026,Sugar
+1860,Berat,Yalın,Elazığ,16.10.2029,Pasta
